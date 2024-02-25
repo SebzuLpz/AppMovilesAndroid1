@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taller1_24</string>
+    <string name="carrera">CARRERA</string>
+    <string name="materias">MATERIAS</string>
+    <string name="notas">NOTAS</string>
+    <string name="integrantes">INTEGRANTES</string>
+    <string name="sebastian_lopez">Sebastian Lopez</string>
+    <string name="jhon_prieto">Jhon Prieto</string>
+    <string name="consultar">CONSULTAR:</string>
+    <string name="interfaz">INTERFAZ</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
